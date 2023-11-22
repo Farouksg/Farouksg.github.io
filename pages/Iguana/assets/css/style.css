@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    border: 0;
+    font-family: Raleway;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+}
+
+/* header */
+
+.header {
+    font-size: 50px;
+    font-weight: 500;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.hero-img img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    opacity: 1;
+}
+
+.desc-section {
+    background-color: #000000;
+    margin: 0;
+    padding: 45px 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/*texto*/
+
+.desc-text {
+    width: 60%;
+    display: inline-block;
+    padding-right: 30px;
+    text-align: left;
+    vertical-align: middle;
+    opacity: 1;
+}
+
+.desc-img {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+
+.desc-img img {
+    width: 100%;
+}
+
+/*iconos*/
+
+.icons-section {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 50px;
+}
+
+.icons-section h2 {
+    font-weight: 500;
+    font-size: 40px;
+    margin-bottom: 1em;
+}
+
+.icons {
+    display: inline-block;
+    width: 30%;
+}
+
+.icons p {
+    font-size: 25px;
+    font-weight: 30;
+    opacity: 1;
+    align-items: center;
+}
+
+/*imgenes*/
+
+.img-section {
+    text-align: center;
+    padding: 75px 0;
+}
+
+.image {
+    display: inline-block;
+    width: 30%;
+    vertical-align: middle;
+}
+
+.image img {
+
+    /* Layout Properties */
+    top: 1561px;
+    left: 482px;
+    width: 316px;
+    height: 202px;;
+    /* UI Properties */
+    background: transparent url('img/photo-1511762018950-7ba39019ae85.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+/*footer*/
+
+footer {
+    background-color: #1e1a13;
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+    padding: 10px;
+    color: #ffffff;
+}
+
+footer a {
+    text-decoration: noce;
+    color: white;
+}

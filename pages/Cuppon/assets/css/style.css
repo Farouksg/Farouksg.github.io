@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.card-secundario {
+	font-weight: 80;
+	color: #707070;
+	margin: 0;
+}
+
+.card-secundario2 {
+	font-size: 13px;
+	color: #707070;
+	font-weight: 80;
+}
+
+.text-success{
+	font-size: 20px;
+	font-weight: 62px;
+}
+
+.precios{
+	text-align: right;
+}
+
+form{
+	margin: 0 auto;
+}
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+footer{
+	text-align: center;
+}
+
+footer img{
+	width: 82px;
+	padding-top: 30px;
+	margin: 0 auto;
+}
+
+footer p{
+	color:#707070;
+	font-weight:100;
+}
+nav img{
+	width: 90px;
+	margin: 0 auto;
+}
+
+h5{ 
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+}
